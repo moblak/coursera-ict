@@ -19,6 +19,19 @@ Below is just about everything you'll need to style in the theme. Check the sour
 *
   - 
 
+
+<figure>
+  <img src="{{ site.url }}/images/wordcloud.png">
+  <figcaption><a href="https://www.coursera.org/course/ictinprimary">ICT in Primary Education: Transforming children's learning across the curriculum, on Coursera</a>.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.url }}/images/definition CT.PNG">
+  <figcaption><a href="http://www.iste.org/docs/ct-documents/computational-thinking-operational-definition-flyer.pdf?sfvrsn=2">Operational Definition of Computational Thinking for K-12 Education by ISTE</a>.</figcaption>
+</figure>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/VFcUgSYyRPg" frameborder="0"> </iframe>
+
 ## Heading 2
 
 ### Heading 3
