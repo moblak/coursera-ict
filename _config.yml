@@ -1,12 +1,12 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Cursera ICT
+description:      ICT in primary education course journal.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://moblak.github.io/coursera-ict
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Mirjam Oblak
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
